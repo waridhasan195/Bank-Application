@@ -1,0 +1,1 @@
+ In bank management system used money transaction features for ensuring high-level security for transection Id, money, interest, withdraw and deposit and transaction statement for every information an account holder. This project used java swing and SQL with a large database. 
